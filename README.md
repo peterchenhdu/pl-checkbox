@@ -1,8 +1,6 @@
 # pl-checkbox
 ---
 
-React Checkbox
-
 ### 该仓库基于 https://github.com/react-component/checkbox 进行修改，用于个人学习。
 
 [![NPM version][npm-image]][npm-url]
@@ -130,4 +128,4 @@ open coverage/ dir
 
 ## License
 
-rc-checkbox is released under the MIT license.
+pl-checkbox is released under the MIT license.
