@@ -35,3 +35,6 @@ env:
 matrix:
   allow_failures:
   - env: "TEST_TYPE=saucelabs"
+
+service_name: travis-pro
+repo_token: dwy9Zzs6rRu0rHHbH5tKbjtZgLnQYgiEu
